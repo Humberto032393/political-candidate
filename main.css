@@ -1,0 +1,45 @@
+body {
+    background-color: lightblue;
+}
+
+.img--section {
+    box-shadow: 5px 5px darkblue;
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+
+
+}
+
+.blog--post p {
+    font-size: 20px;
+
+}
+
+.bio--style h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px; 
+    text-align: center;
+    text-shadow: 4px 4px 5px darkblue;
+
+}
+
+.bio--size:p {
+    background-color: red;
+    font-size: 20px;
+}
+
+ 
+
+.committee--list li {
+    font-size: 20px;
+    
+    
+    
+}
+
+.enacted li {
+    font-size: 20px;
+
+    
+}
